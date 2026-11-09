@@ -1,7 +1,7 @@
 schema:
   schema_id: konny_yikyan-henfeng_II_old_rel_gan_nowenbai
   name: yikyan-henfeng
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_yikyan-henfeng_old_rel
   prism: konny_yikyan-henfeng_II_old_rel_gan_nowenbai
@@ -343,7 +343,7 @@ speller:
     - derive/^Gngê$/Fnge/
     - derive/^Gngêk$/Fngeh/
     - derive/^Gngên$/Fngen/
-    - derive/^Gni$/Fnj/
+    - derive/^Gni$/Fnji/
     - derive/^Gnia$/Fnia/
     - derive/^Gniak$/Fnjah/
     - derive/^Gnian$/Fnian/
@@ -361,8 +361,8 @@ speller:
     - derive/^Gnong$/Fnong/
     - derive/^Gnu$/Fnu/
     - derive/^Gnuk$/Fnuh/
-    - derive/^Gnung$/Fnjung/
-    - derive/^Gnuoi$/Fnjuoi/
+    - derive/^Gnung$/Fnung/
+    - derive/^Gnuoi$/Fnuoi/
     - derive/^Gnuok$/Fnuoh/
     - derive/^Gnuong$/Fnuong/
     - derive/^Gnuêi$/Fnuei/
