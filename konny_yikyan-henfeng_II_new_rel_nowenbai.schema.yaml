@@ -1,7 +1,7 @@
 schema:
   schema_id: konny_yikyan-henfeng_II_new_rel_nowenbai
   name: yikyan-henfeng
-  version: "1.3.1"
+  version: "1.3.2"
 translator:
   dictionary: gannyu_yikyan-henfeng_new_rel
   prism: konny_yikyan-henfeng_II_new_rel_nowenbai
@@ -50,8 +50,6 @@ speller:
     - derive/^Gcau$/Ftshau/
     - derive/^Gcen$/Ftshern/
     - derive/^Gceng$/Ftsherng/
-    - derive/^Gcin$/Ftshin/
-    - derive/^Gciuk$/Ftshiuh/
     - derive/^Gco$/Ftsho/
     - derive/^Gcoi$/Ftshoi/
     - derive/^Gcok$/Ftshoh/
@@ -95,7 +93,6 @@ speller:
     - derive/^Gduo$/Ftuo/
     - derive/^Gduoi$/Ftuoi/
     - derive/^Gduok$/Ftuoh/
-    - derive/^Gduon$/Ftuon/
     - derive/^Gduong$/Ftuong/
     - derive/^Gduêi$/Ftuei/
     - derive/^Gdê$/Fte/
@@ -201,6 +198,7 @@ speller:
     - derive/^Gjiau$/Fciau/
     - derive/^Gjieu$/Fcieru/
     - derive/^Gjik$/Fcih/
+    - derive/^Gjin$/Fcin/
     - derive/^Gjiu$/Fciu/
     - derive/^Gjiuk$/Fciuh/
     - derive/^Gjiung$/Fciung/
@@ -216,7 +214,6 @@ speller:
     - derive/^Gjyuong$/Fcyong/
     - derive/^Gjyuêk$/Fcyeh/
     - derive/^Gjyuên$/Fcyen/
-    - derive/^Gjyuêng$/Fcyeng/
     - derive/^Gka$/Fkha/
     - derive/^Gkai$/Fkhai/
     - derive/^Gkak$/Fkhah/
@@ -410,6 +407,7 @@ speller:
     - derive/^Gqiau$/Fchiau/
     - derive/^Gqieu$/Fchieru/
     - derive/^Gqik$/Fchih/
+    - derive/^Gqin$/Fchin/
     - derive/^Gqiu$/Fchiu/
     - derive/^Gqiuk$/Fchiuh/
     - derive/^Gqiê$/Fchie/
@@ -424,7 +422,6 @@ speller:
     - derive/^Gqyuong$/Fchyong/
     - derive/^Gqyuêk$/Fchyeh/
     - derive/^Gqyuên$/Fchyen/
-    - derive/^Gqyuêng$/Fchyeng/
     - derive/^Gsa$/Fsa/
     - derive/^Gsai$/Fsai/
     - derive/^Gsak$/Fsah/
@@ -433,8 +430,6 @@ speller:
     - derive/^Gsek$/Fsirh/
     - derive/^Gsen$/Fsern/
     - derive/^Gseng$/Fserng/
-    - derive/^Gsi$/Fsi/
-    - derive/^Gsin$/Fsin/
     - derive/^Gso$/Fso/
     - derive/^Gsok$/Fsoh/
     - derive/^Gsu$/Fsu/
@@ -507,6 +502,7 @@ speller:
     - derive/^Gxiau$/Fxiau/
     - derive/^Gxieu$/Fxieru/
     - derive/^Gxik$/Fxih/
+    - derive/^Gxin$/Fxin/
     - derive/^Gxiu$/Fxiu/
     - derive/^Gxiuk$/Fxiuh/
     - derive/^Gxiê$/Fxie/
@@ -522,7 +518,6 @@ speller:
     - derive/^Gxyuê$/Fxye/
     - derive/^Gxyuêk$/Fxyeh/
     - derive/^Gxyuên$/Fxyen/
-    - derive/^Gxyuêng$/Fxyeng/
     - derive/^Gya$/Fia/
     - derive/^Gyak$/Fiah/
     - derive/^Gyan$/Fian/
@@ -545,7 +540,6 @@ speller:
     - derive/^Gyuong$/Fyong/
     - derive/^Gyuêk$/Fyeh/
     - derive/^Gyuên$/Fyen/
-    - derive/^Gyuêng$/Fyeng/
     - derive/^Gyê$/Fie/
     - derive/^Gyêk$/Fieh/
     - derive/^Gyên$/Fien/
@@ -557,8 +551,6 @@ speller:
     - derive/^Gze$/Ftser/
     - derive/^Gzen$/Ftsern/
     - derive/^Gzeng$/Ftserng/
-    - derive/^Gzi$/Ftsi/
-    - derive/^Gzin$/Ftsin/
     - derive/^Gzo$/Ftso/
     - derive/^Gzoi$/Ftsoi/
     - derive/^Gzok$/Ftsoh/
