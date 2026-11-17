@@ -2,7 +2,7 @@
 schema:
   schema_id: konny_yikyan-henfeng_II
   name: 赣语－弋阳-横峰（二式·组合式）
-  version: "1.3.2"
+  version: "1.3.3"
   dependencies:
     - konny_yikyan-henfeng_II_nowenbai
     - konny_yikyan-henfeng_II_gan
